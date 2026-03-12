@@ -1,19 +1,14 @@
-Revive of Bark (aka Grate)
-Note from Jay: This should work with utilia 1.6.28 or higher
+# Revive of Bark (aka Grate)
+Note from Jay: This should work with utilia 1.6.28 or higher, this mainly made so people would stay on Utilia and not switch to 
+### Imaginary Rules
 
-RULES OF USE
+- No modifications that make Bark a cheat, only use in modded lobbies
+- Do not abuse glitches.
+- Refrain from trolling or deciving other gorillas.
+- With Great Power Comes Great Responsibility. 
 
-No modifications that make Bark a cheat, only can be used in modded lobbies
+### Credits
 
-Do not abuse glitches.
-
-Refrain from trolling or deciving other gorillas.
-
-Have fun.
-
-Credits
-
-Graze is the previous maintainer of Bark
-
-KyleTheScientist made the backbone of Bark called Bark.
-baggZ, Gadabuda, Monky made mods
+- Graze is the previous maintainer of Bark
+- KyleTheScientist made the backbone of Bark called Bark.
+- baggZ, Gadabuda, Monky made mods
