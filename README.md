@@ -1,5 +1,5 @@
 # Revive of Bark (aka Grate)
-Note from Jay: This should work with utilia 1.6.28 or higher, this was mainly made so people would stay on BepinEx 
+Note from Jay: This should work with utilia 1.6.28 or higher, this was mainly made so people would stay on BepinEx. I could not get some abilities working but most work. 
 ### Imaginary Rules
 
 - No modifications that make Bark a cheat, only use in modded lobbies
