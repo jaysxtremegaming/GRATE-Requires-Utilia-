@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Grate</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Grate.Resources.gratebundle" />
+    <EmbeddedResource Include="Grate.Resources.gratebundle" LogicalName="Grate.Resources.gratebundle" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="UnityEngine.CoreModule" />
+    <Reference Include="UnityEngine.UIModule" />
+    <Reference Include="UnityEngine.UI" />
+    <Reference Include="UnityEngine.PhysicsModule" />
+    <Reference Include="BepInEx" />
+    <Reference Include="0Harmony" />
+    <Reference Include="UnityEngine.AssetBundleModule" />
+    <Reference Include="Assembly-CSharp" />
+    <Reference Include="UnityEngine.AudioModule" />
+    <Reference Include="PhotonUnityNetworking" />
+    <Reference Include="Photon3Unity3D" />
+    <Reference Include="PhotonRealtime" />
+    <Reference Include="Unity.Mathematics" />
+    <Reference Include="UnityEngine.ParticleSystemModule" />
+    <Reference Include="UnityEngine.XRModule" />
+    <Reference Include="UnityEngine.VideoModule" />
+    <Reference Include="Unity.XR.Interaction.Toolkit" />
+    <Reference Include="UnityEngine.UnityWebRequestModule" />
+    <Reference Include="UnityEngine.TextRenderingModule" />
+    <Reference Include="Utilla" />
+    <Reference Include="UnityEngine.ImageConversionModule" />
+    <Reference Include="Oculus.VR" />
+    <Reference Include="GT_CustomMapSupportRuntime" />
+    <Reference Include="UnityEngine.VRModule" />
+    <Reference Include="SteamVR_Actions" />
+    <Reference Include="SteamVR" />
+    <Reference Include="Unity.InputSystem" />
+  </ItemGroup>
+</Project>
